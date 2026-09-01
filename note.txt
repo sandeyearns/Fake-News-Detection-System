@@ -1,0 +1,4 @@
+What Next?
+- Try cross validation
+- model selection
+- hyperparam tuning
